@@ -1,0 +1,57 @@
+/* Resets */
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--color-white);
+  background: var(--color-black);
+  min-height: 100vh;
+}
+
+body {
+  font-size: 1.6rem;
+  padding-top: 10rem;
+}
+
+button,
+input[type="submit"],
+input[type="reset"] {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+  .page {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+    padding-left: 1rem;
+  }
+  h2 {
+     font-size: 6rem;
+    font-family: "Inter", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+  }
