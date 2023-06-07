@@ -45,7 +45,7 @@ input[type="reset"] {
     display: flex;
     flex-direction: column;
     gap: 1.5em;
-    padding-left: 1rem;
+    padding: 2rem;
   }
   h2 {
      font-size: 6rem;
@@ -54,4 +54,60 @@ input[type="reset"] {
     font-style: normal;
     text-decoration: none;
     text-transform: none;
+  }
+
+  h1 {
+    font-size: 34rem;
+    font-family: "Inter", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+  }
+
+
+  .text-style-h-1 {
+    font-size: 15rem;
+    font-family: "Inter", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+  }
+
+  /* 800 pixels down */
+  @media only screen and (max-width: 900px) {
+    h1 {
+      font-size: 20rem;
+    }
+  .text-style-h-1 {
+    font-size: 15rem;
+    font-family: "Inter", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+  }
+  }
+
+  @media only screen and (max-width: 510px) {
+    h1 {
+      font-size: 10rem;
+    }
+    .text-style-h-1 {
+      font-size: 6rem;
+      font-family: "Inter", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-weight: 900;
+      font-style: normal;
+      text-decoration: none;
+      text-transform: none;
+    }
+  h2 {
+    font-size: 3rem;
+    font-family: "Inter", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: none;
+  }
   }

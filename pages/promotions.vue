@@ -18,7 +18,7 @@
   text-align: center;
 }
   img {
-    max-width: 25%;
+    max-width: 50%;
     border: solid 0.1rem white;
   }
 </style>

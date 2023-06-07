@@ -1,6 +1,6 @@
 <template>
   <div>
-    <NuxtLink class="link" :to="to">{{ linkText }}</NuxtLink>
+    <NuxtLink class="text-style-page-link link" :to="to">{{ linkText }}</NuxtLink>
   </div>
 </template>
 

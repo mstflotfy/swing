@@ -7,17 +7,18 @@
   text-transform: none;
 }
 
-.text-style-h-1 {
-  font-size: 15rem;
-  font-family: "Inter", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-weight: 900;
+
+.text-style-body {
+  font-size: 1.6rem;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-weight: 400;
   font-style: normal;
   text-decoration: none;
   text-transform: none;
 }
 
-.text-style-body {
-  font-size: 1.6rem;
+.text-style-page-link {
+  font-size: 1.2rem;
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-style: normal;

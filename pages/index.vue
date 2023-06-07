@@ -1,7 +1,7 @@
 <template>
   <div class="content">
     <Header></Header>
-    <h1 class="text-style-main">SWING</h1>
+    <h1>SWING</h1>
 
     <figure class="vidContainer">
 
