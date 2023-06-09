@@ -20,13 +20,17 @@ html {
   font-size: 62.5%;
   font-family: Arial, Helvetica, sans-serif;
   color: var(--color-white);
-  background: var(--color-black);
   min-height: 100vh;
+}
+p {
+  text-align: justify;
 }
 
 body {
-  font-size: 1.6rem;
+  font-size: 2rem;
   padding-top: 10rem;
+  margin-right: 20rem;
+  margin-left: 20rem;
 }
 
 button,
@@ -48,7 +52,7 @@ input[type="reset"] {
     padding: 2rem;
   }
   h2 {
-     font-size: 6rem;
+     font-size: 4.8rem;
     font-family: "Inter", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 900;
     font-style: normal;

@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div class="container">
+    <div id="header-container">
 
-      <NuxtLink to="/" class="logo text-style-logo">SWING</NuxtLink>
+      <NuxtLink to="/" class="logo text-style-logo" id="logo">SWING</NuxtLink>
 
       <div class="main-pages">
 
@@ -26,7 +26,7 @@
 </script>
 
 <style scoped>
-  .container {
+  #header-container {
     /* color=Default */
 
     box-sizing: border-box;
@@ -47,7 +47,7 @@
 
     /* white */
 
-    border: 0.01rem solid #FFFFFF;    
+    border: 0.1rem solid #FFFFFF;    
   }
 
   .logo {
@@ -72,5 +72,6 @@
     order: 1;
     flex-grow: 0;
   }
+
 
 </style>

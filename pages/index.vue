@@ -12,7 +12,7 @@
 
   </figure>
 
-  <p>Swing is a short animation that tries to capture the emotion of mood swings</p>
+  <small>Swing is a short animation that tries to capture the emotion of mood swings.</small>
 
   </div>
 </template>
@@ -33,6 +33,9 @@
   h1 {
     color: var(--color-main);
     text-align: center;
+    margin-bottom: 0;
+    line-height: 80%;
+    margin-top: 5rem;
   }
 
   html {

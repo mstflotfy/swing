@@ -1,10 +1,13 @@
 <template>
   <div>
-    <NuxtLink class="text-style-page-link link" :to="to">{{ linkText }}</NuxtLink>
+    <NuxtLink :id="$route.name === 'process' ? 'process' : ''" class="text-style-page-link link" :to="to">{{ linkText }}</NuxtLink>
   </div>
 </template>
 
 <script setup lang="ts">
+
+  const route = useRoute
+
   const {to, linkText} = defineProps({
     to: {
       type: String,
@@ -20,6 +23,10 @@
 <style scoped>
   .link:hover {
     color: var(--color-main);
+  }
+
+  #process:hover {
+    color: white;
   }
 
 </style>
