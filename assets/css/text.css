@@ -1,6 +1,6 @@
 .text-style-main {
   font-size: 30rem;
-  font-family: "Inter", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-weight: 900;
   font-style: normal;
   text-decoration: none;
@@ -10,7 +10,7 @@
 
 .text-style-body {
   font-size: 2.4rem;
-  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-style: normal;
   text-decoration: none;
@@ -19,7 +19,7 @@
 
 .text-style-page-link {
   font-size: 1.2rem;
-  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-style: normal;
   text-decoration: none;
@@ -28,7 +28,7 @@
 
 .text-style-logo {
   font-size: 2rem;
-  font-family: "Inter" Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-weight: 900;
   font-style: normal;
   text-decoration: none;
