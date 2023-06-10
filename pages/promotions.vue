@@ -5,11 +5,11 @@
       <h2>Posters</h2>
 
       <div class="image-container">
-        <img src="/assets/img/swingSite/promotions/posters/Frame 9.png" alt="Swing animation poster">
+        <img src="/assets/img/swingSite/promotions/posters/Frame10.png" alt="Swing animation poster">
       </div>
 
       <div class="image-container">
-        <img src="/assets/img/swingSite/promotions/posters/Frame 11.png" alt="Swing animation poster">
+        <img src="/assets/img/swingSite/promotions/posters/Frame11.png" alt="Swing animation poster">
       </div>
 
       <div class="image-container">
@@ -18,21 +18,21 @@
 
       <h2>Postcards</h2> 
         <div class="image-container">
-          <img class="img-sml" src="/assets/img/swingSite/promotions/postCards/Postcard _ Give away card back 1.png" alt="Swing animation poster">
+          <img class="img-sml" src="/assets/img/swingSite/promotions/postCards/card1.png" alt="Swing animation poster">
         </div>
       <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/promotions/postCards/Postcard _ Give away card.png" alt="Swing animation poster">
+        <img class="img-sml" src="/assets/img/swingSite/promotions/postCards/card2.png" alt="Swing animation poster">
       </div>
 
       <h2>Small Postcards</h2>
         <div class="image-container">
-          <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/Postcard _ Give away card back 3.png" alt="Swing animation poster">
+          <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/smallCard1.png" alt="Swing animation poster">
         </div>
         <div class="image-container">
-          <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/Postcard _ Give away card.png" alt="Swing animation poster">
+          <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/smallCard2.png" alt="Swing animation poster">
         </div>
         <div class="image-container">
-          <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/Small Postcard  back.png" alt="Swing animation poster">
+          <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/smallCard3.png" alt="Swing animation poster">
         </div>
 
 
