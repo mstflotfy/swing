@@ -31,9 +31,9 @@
         <div class="image-container">
           <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/smallCard2.png" alt="Swing animation poster">
         </div>
-        <div class="image-container">
+<!--         <div class="image-container">
           <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/smallCard3.png" alt="Swing animation poster">
-        </div>
+        </div> -->
 
 
 <!--         <h2>Panels</h2>
