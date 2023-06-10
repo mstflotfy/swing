@@ -39,9 +39,6 @@
         <h2>Panels</h2>
 
         <div class="image-container">
-          <img class="img-sml" src="/assets/img/swingSite/panels/4a4fd69b-600a-4e1b-a458-e884e0c9a0ff.JPG" alt="Swing animation panel">
-        </div>
-        <div class="image-container">
           <img class="img-sml" src="/assets/img/swingSite/panels/IMG-4525.jpg" alt="Swing animation panel">
         </div>
 
