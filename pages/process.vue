@@ -57,10 +57,10 @@
         <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4434.PNG" alt="the main Swing character">
       </div>
       <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4425 (1).PNG" alt="the main Swing character">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/1.PNG" alt="the main Swing character">
       </div>
       <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4427 (1).PNG" alt="the main Swing character">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/0.PNG" alt="the main Swing character">
       </div>
       <div class="image-container">
         <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4429.PNG" alt="the main Swing character">

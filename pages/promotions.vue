@@ -40,7 +40,10 @@
 
         <div class="image-container">
           <img class="img-sml" src="/assets/img/swingSite/panels/IMG-4525.jpg" alt="Swing animation panel">
-        </div>
+ 
+        <div class="image-container">
+          <img class="img-sml" src="/assets/img/swingSite/panels/panel1.jpg" alt="Swing animation panel">
+        </div>       </div>
 
   </div>
 </template>
