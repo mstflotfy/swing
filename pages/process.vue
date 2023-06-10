@@ -31,8 +31,9 @@
   </h2>
 
 <p>
+
   The story line will start with the main character dreaming of a memory of him being
-  born. His brain organ’s shape will be different than normal looking brains. After he
+  born. His brain organs shape will be different than normal looking brains. After he
   wakes up the story starts with a normal day where he taking a walk with a scene
   that fast forwards through his days. At first he has a very regular/boring life until one
   day he stumbles on his already troubled mind/head. He hits his head so hard, his
@@ -51,28 +52,6 @@
 
     </p>
 
-
-    <h2>Character Design</h2>
-
-      <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4434.png" alt="the main Swing character">
-      </div>
-
-      <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/cHead.png" alt="the main Swing character">
-      </div>
-
-      <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/cProfile.png" alt="the main Swing character">
-      </div>
-
-      <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4429.png" alt="the main Swing character">
-      </div>
-
-      <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4442.png" alt="the main Swing character">
-      </div>
 
     <h2>Film Stills</h2>
 
