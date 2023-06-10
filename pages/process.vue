@@ -97,4 +97,11 @@
   .img-sml {
     max-width: 100%;
   }
+
+  @media only screen and (max-width: 600px) {
+
+    img {
+      max-width: 100%;
+    }
+  }
 </style>
