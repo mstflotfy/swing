@@ -7,13 +7,22 @@
     <h2>
   Concept & Ideation
     </h2>
-    <p>
 
-  The story focuses on how it feels to experience mood swings. The main ideas behind this
-  animation short film is focused on a person who is struggling with extreme Mood swings
+  <p>The story focuses on how it feels to experience mood swings. The main idea behind this
+  animated short film is focused on a person who is struggling with extreme Mood swings
   without getting any rest. His mind keeps switching between high and low mental states,
-  good and bad moods, and his goal is to try to balance his mind in order to live normally.
-  </p>
+  good and bad moods, and his goal is to try to balance his mind in order to live normally.</p>
+
+  <p>
+  This project is not only an important introduction to mood swings but also helps in better
+  understanding the feelings and the phases the individuals who experience Mood Swings
+  goes through. Spreading awareness of Mood Swings is a crucial part that aids in dealing
+  with this condition, specifically, if it is related to mental health issues. This Project was an
+  essential and crucial part of my work experience in not just Animation, but also some
+  parts of this project helped in honing my Graphic Design skills in general as well. It helped
+  in exploring the mental health state of Mood Swings and gave me more understanding of
+  this subject and how this state affects everyone not just individuals suffering from
+  Mental Health Conditions.</p>
 
   <h2>
 
@@ -41,6 +50,31 @@
   all these mood shifting is in his head and finds a way to balance his moods.
 
     </p>
+
+
+    <h2>Character Design</h2>
+      <div class="image-container">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4434.PNG" alt="the main Swing character">
+      </div>
+      <div class="image-container">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4425 (1).PNG" alt="the main Swing character">
+      </div>
+      <div class="image-container">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4427 (1).PNG" alt="the main Swing character">
+      </div>
+      <div class="image-container">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4429.PNG" alt="the main Swing character">
+      </div>
+      <div class="image-container">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4442.PNG" alt="the main Swing character">
+      </div>
+
+    <h2>Film Stills</h2>
+
+      <div class="image-container">
+        <img class="img-sml" src="/assets/img/swingSite/process/filmStills.jpg" alt="stills">
+      </div>
+
   </div>
 </template>
 
@@ -48,4 +82,13 @@
 </script>
 
 <style scoped>
+.image-container {
+  text-align: center;
+}
+  img {
+    max-width: 50%;
+  }
+  .img-sml {
+    max-width: 100%;
+  }
 </style>
