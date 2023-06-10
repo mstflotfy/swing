@@ -4,12 +4,13 @@
     <h1>SWING</h1>
 
     <figure class="vidContainer">
+<!-- 
+    <iframe src="https://drive.google.com/file/d/1_H9_WS6RgZmgCN_5NWfl3ZezpYHOLUhw/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe> -->
 
-    <iframe src="https://drive.google.com/file/d/1_H9_WS6RgZmgCN_5NWfl3ZezpYHOLUhw/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe>
-<!--       <video class="vid" controls>
-      <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+      <video class="vid" controls>
+      <source src="/public/swingAnimation.mp4" type="video/mp4">
     Your browser does not support the video tag.
-    </video> -->
+    </video>
 
   </figure>
 
@@ -45,6 +46,16 @@
 
   .vid {
     min-width: 60%;
+  }
+  video {
+    max-width: 50%;
+  }
+  
+  @media only screen and (max-width: 510px) {
+    video {
+      max-width: 100%;
+    }
+
   }
 
 </style>
