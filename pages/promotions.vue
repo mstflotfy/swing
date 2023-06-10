@@ -8,9 +8,9 @@
         <img src="/assets/img/swingSite/promotions/posters/Frame10.png" alt="Swing animation poster">
       </div>
 
-      <div class="image-container">
+   <!--    <div class="image-container">
         <img src="/assets/img/swingSite/promotions/posters/Frame11.png" alt="Swing animation poster">
-      </div>
+      </div> -->
 
       <div class="image-container">
         <img src="/assets/img/swingSite/promotions/posters/swing-poster-vercel-qr-red.png" alt="Swing animation poster">
@@ -36,14 +36,15 @@
         </div>
 
 
-        <h2>Panels</h2>
+<!--         <h2>Panels</h2>
 
         <div class="image-container">
           <img class="img-sml" src="/assets/img/swingSite/panels/IMG-4525.jpg" alt="Swing animation panel">
+        </div>
  
         <div class="image-container">
           <img class="img-sml" src="/assets/img/swingSite/panels/panel1.jpg" alt="Swing animation panel">
-        </div>       </div>
+        </div>        -->
 
   </div>
 </template>
