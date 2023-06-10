@@ -53,20 +53,25 @@
 
 
     <h2>Character Design</h2>
+
       <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4434.PNG" alt="the main Swing character">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4434.png" alt="the main Swing character">
       </div>
+
       <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/1.PNG" alt="the main Swing character">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/cHead.png" alt="the main Swing character">
       </div>
+
       <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/0.PNG" alt="the main Swing character">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/cProfile.png" alt="the main Swing character">
       </div>
+
       <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4429.PNG" alt="the main Swing character">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4429.png" alt="the main Swing character">
       </div>
+
       <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4442.PNG" alt="the main Swing character">
+        <img class="img-sml" src="/assets/img/swingSite/process/cd/IMG-4442.png" alt="the main Swing character">
       </div>
 
     <h2>Film Stills</h2>
