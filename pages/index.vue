@@ -1,6 +1,5 @@
 <template>
   <div class="content">
-    <Header></Header>
     <h1>SWING</h1>
 
     <figure class="vidContainer">

@@ -18,18 +18,18 @@
 
       <h2>Postcards</h2> 
         <div class="image-container">
-          <img class="img-sml" src="/assets/img/swingSite/promotions/postCards/card1.png" alt="Swing animation poster">
+          <img src="/assets/img/swingSite/promotions/postCards/card1.png" alt="Swing animation poster">
         </div>
       <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/promotions/postCards/card2.png" alt="Swing animation poster">
+        <img src="/assets/img/swingSite/promotions/postCards/card2.png" alt="Swing animation poster">
       </div>
 
       <h2>Small Postcards</h2>
         <div class="image-container">
-          <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/smallCard1.png" alt="Swing animation poster">
+          <img src="/assets/img/swingSite/promotions/smallPostCards/smallCard1.png" alt="Swing animation poster">
         </div>
         <div class="image-container">
-          <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/smallCard2.png" alt="Swing animation poster">
+          <img src="/assets/img/swingSite/promotions/smallPostCards/smallCard2.png" alt="Swing animation poster">
         </div>
 <!--         <div class="image-container">
           <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/smallCard3.png" alt="Swing animation poster">
@@ -63,7 +63,7 @@
   .img-sml {
     max-width: 100%;
   }
-  
+
   @media only screen and (max-width: 600px) {
 
     img {
