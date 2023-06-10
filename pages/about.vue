@@ -41,6 +41,13 @@
     max-width: 45%;
     border-radius: 1rem;
   }
+  @media only screen and (max-width: 600px) {
+
+    img {
+      max-width: 100%;
+    }
+  }
+
   .link {
     color: rgb(51, 119, 245);
     text-decoration: underline;
