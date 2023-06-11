@@ -4,7 +4,7 @@
 
     <h2>Omar M. Lotfy</h2>
     <div class="image-container">
-      <img src="/assets/img/swingSite/IMG-0934.jpg" alt="Omar Lotfy the, the author of the swing animation personal picture">
+      <nuxt-img src="/swingSite/IMG-0934.jpg" alt="Omar Lotfy the, the author of the swing animation personal picture" />
     </div>
       <p>My name is Omar M. Lotfy, 2D animation artist, and Graphci Designer. 
         

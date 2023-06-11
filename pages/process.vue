@@ -78,7 +78,7 @@
     <h2>Film Stills</h2>
 
       <div class="image-container">
-        <img class="img-sml" src="/assets/img/swingSite/process/filmStills.jpg" alt="stills">
+        <nuxt-img class="img-sml" src="/swingSite/process/filmStills.jpg" alt="stills" />
       </div>
 
   </div>

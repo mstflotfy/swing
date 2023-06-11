@@ -7,7 +7,7 @@
     <iframe src="https://drive.google.com/file/d/1_H9_WS6RgZmgCN_5NWfl3ZezpYHOLUhw/preview" width="640" height="480" allow="autoplay" allowfullscreen="allowfullscreen"></iframe> -->
 
       <video class="vid" controls>
-      <source src="/public/swingAnimation.mp4" type="video/mp4">
+      <source src="/swingAnimation.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 
