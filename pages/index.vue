@@ -32,16 +32,13 @@
   }
 
   h1 {
-    color: var(--color-main);
     text-align: center;
     margin-bottom: 0;
     line-height: 100%;
     margin-top: 5rem;
+    color: var(--color-black)
   }
 
-  html {
-    background: black;
-  }
 
   .vid {
     min-width: 60%;

@@ -47,11 +47,12 @@
 
     /* white */
 
-    border: 0.1rem solid #FFFFFF;    
+    border: 0.1rem solid var(--color-white);    
+    border-radius: 0.5rem;
   }
 
   .logo {
-    color: var(--color-main);
+    color: var(--color-white);
   }
   .main-pages {
     /* pages */

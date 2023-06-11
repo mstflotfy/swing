@@ -22,7 +22,7 @@
 
 <style scoped>
   .link:hover {
-    color: var(--color-main);
+    color: var(--color-white);
   }
 
   #process:hover {

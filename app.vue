@@ -24,7 +24,10 @@
   // Should I document this one?!
   // Shouldn't I destroy it?
   // Why da fuck did computed not work?!!!!!!!!
-  onMounted(() => {
+
+  // Testing to see if it's causing performance isssues
+  // Temp sol. Stick to a black or red bg on all pages
+/*   onMounted(() => {
 
     watchEffect(() => {
       console.log(route.name) 
@@ -53,7 +56,7 @@
     })
 
   })
-
+ */
 
 </script>
 
