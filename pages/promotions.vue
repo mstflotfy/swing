@@ -5,7 +5,7 @@
       <h2>Posters</h2>
 
       <div class="image-container">
-        <nuxt-img src="/img/swingSite/promotions/posters/Frame10.png" preload quality="70" format="webp" sizes="sm:100vw md:50vw lg:50vw" alt="Swing animation poster" />
+        <nuxt-img src="/img/swingSite/promotions/posters/Frame10.png" preload quality="70" format="webp" sizes="sm:100vw md:50vw lg:50vw" alt="Swing animation poster" loading="eager"/>
       </div>
 
    <!--    <div class="image-container">

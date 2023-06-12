@@ -19,7 +19,7 @@ export default defineNuxtConfig({
       xl: 1280,
       xxl: 1536,
     },
-    staticFilename: '/_nuxt/[name].[has][ext]',
-
+    staticFilename: '/_nuxt/[name].[hash][ext]',
+    provider: 'ipx'
   }
 })
