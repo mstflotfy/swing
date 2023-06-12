@@ -77,9 +77,10 @@
  -->
     <h2>Film Stills</h2>
 
-      <div class="image-container">
+    <OptImg src="img/swingSite/process/filmStills.jpg" alt="stills" />
+<!--       <div class="image-container">
         <img class="img-sml" src="/public/img/swingSite/process/filmStills.jpg" alt="stills" />
-      </div>
+      </div> -->
 
   </div>
 </template>
