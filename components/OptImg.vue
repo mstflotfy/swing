@@ -1,7 +1,7 @@
 <template>
   <div>
 
-    <div class="image-container">
+    <div :class="center ? 'center' : ''">
       <nuxt-img :src="src" :preload="preload" :quality="quality" :format="format" :sizes="sizes" :alt="alt" :loading="loading"/>
     </div>
 
@@ -10,7 +10,7 @@
 
 <script setup lang="ts">
 
-const { src, preload, quality, format, sizes, alt, loading } = defineProps({
+const { src, preload, quality, format, sizes, alt, loading, center} = defineProps({
   src: {
     type: String,
     required: true
@@ -39,6 +39,10 @@ const { src, preload, quality, format, sizes, alt, loading } = defineProps({
   loading: {
     type: String,
     default: 'lazy' // eager|lazy
+  },
+  center: {
+    type: Boolean,
+    default: true
   }
 })
 
@@ -46,11 +50,12 @@ const { src, preload, quality, format, sizes, alt, loading } = defineProps({
 
 <style scoped>
 
-.image-container {
+.center {
   text-align: center;
 }
   img {
-    max-width: 50%;
+    max-width: 55%;
+    border-radius: 1rem;
   }
   .img-sml {
     max-width: 100%;

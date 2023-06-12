@@ -77,7 +77,7 @@
  -->
     <h2>Film Stills</h2>
 
-    <OptImg src="img/swingSite/process/filmStills.jpg" alt="stills" />
+    <OptImg src="img/swingSite/process/filmStills.jpg" alt="stills" :quality="100"/>
 <!--       <div class="image-container">
         <img class="img-sml" src="/public/img/swingSite/process/filmStills.jpg" alt="stills" />
       </div> -->
@@ -89,15 +89,6 @@
 </script>
 
 <style scoped>
-.image-container {
-  text-align: center;
-}
-  img {
-    max-width: 50%;
-  }
-  .img-sml {
-    max-width: 100%;
-  }
 
   @media only screen and (max-width: 600px) {
 
