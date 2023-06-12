@@ -2,7 +2,7 @@
   <div>
 
     <div class="image-container">
-      <nuxt-img :src="src" :preload="preload" :quality="quality" :format="format" :sizes="sizes" :alt="alt" />
+      <nuxt-img :src="src" :preload="preload" :quality="quality" :format="format" :sizes="sizes" :alt="alt" :loading="loading"/>
     </div>
 
   </div>
@@ -10,7 +10,7 @@
 
 <script setup lang="ts">
 
-const { src, preload, quality, format, sizes, alt } = defineProps({
+const { src, preload, quality, format, sizes, alt, loading } = defineProps({
   src: {
     type: String,
     required: true
@@ -35,6 +35,10 @@ const { src, preload, quality, format, sizes, alt } = defineProps({
     type: String,
     // default: `xs:320 sm:640 md:768 lg:1024 xl:1280 xxl:1536`
     default: 'sm:100vw md:50vw lg:50vw'
+  },
+  loading: {
+    type: String,
+    default: 'lazy' // eager|lazy
   }
 })
 

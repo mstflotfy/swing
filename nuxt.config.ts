@@ -1,7 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  target: 'static',
-  buildModules: ['@nuxt/image'],
   devtools: { enabled: true },
   css: [
     '/assets/css/color.css',
@@ -12,6 +10,7 @@ export default defineNuxtConfig({
     '@nuxt/image',
   ],
   image: {
+    inject: true,
     screens: {
       xs: 320,
       sm: 640,
@@ -19,7 +18,8 @@ export default defineNuxtConfig({
       lg: 1024,
       xl: 1280,
       xxl: 1536,
-      '2xl': 1536
     },
+    staticFilename: '/_nuxt/[name].[has][ext]',
+
   }
 })
