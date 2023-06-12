@@ -1,5 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  target: 'static',
+  buildModules: ['@nuxt/image'],
   devtools: { enabled: true },
   css: [
     '/assets/css/color.css',

@@ -5,29 +5,35 @@
       <h2>Posters</h2>
 
       <div class="image-container">
-        <nuxt-img src="/img/swingSite/promotions/posters/Frame10.png" alt="Swing animation poster" />
+        <nuxt-img src="/img/swingSite/promotions/posters/Frame10.png" preload quality="70" format="webp" sizes="sm:100vw md:50vw lg:50vw" alt="Swing animation poster" />
       </div>
 
    <!--    <div class="image-container">
         <img src="/assets/img/swingSite/promotions/posters/Frame11.png" alt="Swing animation poster">
       </div> -->
 
-      <div class="image-container">
+      <OptImg src="/img/swingSite/promotions/posters/swing-poster-vercel-qr-red.png" alt="swing poster. Main character in a high mood infront of a green arrow pointing upwards. The Swing title is in the middle. Main character in a low mood over an arrow pointing down." />
+
+<!--       <div class="image-container">
         <nuxt-img src="/img/swingSite/promotions/posters/swing-poster-vercel-qr-red.png" alt="Swing animation poster" />
-      </div>
+      </div> -->
 
       <h2>Postcards</h2> 
+
         <div class="image-container">
           <nuxt-img src="/img/swingSite/promotions/postCards/card1.png" alt="Swing animation poster" />
         </div>
+
       <div class="image-container">
         <nuxt-img src="/img/swingSite/promotions/postCards/card2.png" alt="Swing animation poster" />
       </div>
 
       <h2>Small Postcards</h2>
+
         <div class="image-container">
           <nuxt-img src="/img/swingSite/promotions/smallPostCards/smallCard1.png" alt="Swing animation poster" />
         </div>
+
         <div class="image-container">
           <nuxt-img src="/img/swingSite/promotions/smallPostCards/smallCard2.png" alt="Swing animation poster" />
         </div>
