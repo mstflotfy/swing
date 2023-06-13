@@ -36,7 +36,7 @@
     margin-bottom: 0;
     line-height: 100%;
     margin-top: 5rem;
-    color: var(--color-black)
+    color: var(--color-main)
   }
 
 

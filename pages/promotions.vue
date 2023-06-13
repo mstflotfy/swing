@@ -7,9 +7,9 @@
       <div class="image-container">
         <nuxt-img src="/img/swingSite/promotions/posters/Frame10.png" preload quality="70" format="webp" sizes="sm:100vw md:50vw lg:50vw" alt="Swing animation poster" loading="eager"/>
       </div> -->
-      <OptImg src="/img/swingSite/promotions/posters/Frame10.png" :preload="true" alt="Swing animation poster" loading="eager" :quality="60"/>
  
 
+      <OptImg src="/img/swingSite/promotions/posters/Frame11.png" :preload="true" alt="Swing animation poster" loading="eager" :quality="60"/>
    <!--    <div class="image-container">
         <img src="/assets/img/swingSite/promotions/posters/Frame11.png" alt="Swing animation poster">
       </div> -->
@@ -17,6 +17,8 @@
 <!--       <div class="image-container">
         <nuxt-img src="/img/swingSite/promotions/posters/swing-poster-vercel-qr-red.png" alt="Swing animation poster" />
       </div> -->
+
+      <OptImg src="/img/swingSite/promotions/posters/Frame10.png" :preload="true" alt="Swing animation poster" loading="eager" :quality="60"/>
 
       <h2>Postcards</h2> 
 
@@ -41,18 +43,23 @@
 <!--         <div class="image-container">
           <nuxt-img src="/img/swingSite/promotions/smallPostCards/smallCard2.png" alt="Swing animation poster" />
         </div> -->
+
+        <OptImg class="img-sml" src="/img/swingSite/promotions/smallPostCards/smallCard3.png" alt="Swing animation panel" />
 <!--         <div class="image-container">
           <img class="img-sml" src="/assets/img/swingSite/promotions/smallPostCards/smallCard3.png" alt="Swing animation poster">
         </div> -->
 
 
-<!--         <h2>Panels</h2>
+        <h2>Panels</h2>
 
-        <div class="image-container">
+        <OptImg class="img-sml" src="/img/swingSite/panels/IMG-4525.jpg" alt="Swing animation panel" />
+<!--         <div class="image-container">
           <img class="img-sml" src="/assets/img/swingSite/panels/IMG-4525.jpg" alt="Swing animation panel">
-        </div>
+        </div> -->
  
-        <div class="image-container">
+
+        <OptImg class="img-sml" src="/img/swingSite/panels/panel1.jpg" alt="Swing animation panel" :quality="100" />
+<!--         <div class="image-container">
           <img class="img-sml" src="/assets/img/swingSite/panels/panel1.jpg" alt="Swing animation panel">
         </div>        -->
 

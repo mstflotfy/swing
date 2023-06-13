@@ -52,7 +52,7 @@
   }
 
   .logo {
-    color: var(--color-white);
+    color: var(--color-main);
   }
   .main-pages {
     /* pages */
